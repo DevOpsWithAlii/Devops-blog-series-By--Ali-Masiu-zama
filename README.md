@@ -9,6 +9,7 @@ Linux
 3. Linux Cheat Sheets + Key Commands - https://devopstoolbatch8.hashnode.dev/linux-interviewquestions-part-4
 
 
+
 Git & GitHub
 
 4. Git & GitHub – (01) - https://devopstoolbatch8.hashnode.dev/git-github-01-day-12
@@ -18,6 +19,9 @@ Git & GitHub
 6. Git & GitHub Interview Questions - https://devopstoolbatch8.hashnode.dev/git-github-interviewquestions
 
 7. Git & GitHub Commands - https://devopstoolbatch8.hashnode.dev/git-githubcommands#cm2ih9zzn000609jt9tb0fxnk
+
+
+
 
 Docker
 
@@ -31,6 +35,9 @@ Docker
 
 13. Docker Interview Questions – (06) - https://devopstoolbatch8.hashnode.dev/docker-interview-questions-
 06-day-38
+
+
+
 
 
 Jenkins
@@ -49,7 +56,11 @@ day-41
 
 20. Jenkins Interview Questions – (07) - https://devopstoolbatch8.hashnode.dev/jenkins-interviewquestions-07-day-45
 
+
+
+
 ☸ Kubernetes
+
 21. Introduction to Kubernetes – (01) - https://devopstoolbatch8.hashnode.dev/introduction-to-kubernetes-
 01-day-46
 
@@ -62,11 +73,18 @@ day-41
 
 25. Microservices Flask App Deployment – (05) - https://devopstoolbatch8.hashnode.dev/microservicesk8s-flask-app-deployment-on-kubeadm-05-day-50
 
+
+
+
 Grafana
 26. Setup Grafana on AWS EC2 – (01) - https://devopstoolbatch8.hashnode.dev/setup-grafana-in-yourlocal-environment-on-aws-ec2-01-day-56
 
 
+
+
+
 ☁ AWS Essentials
+
 27. AWS IAM & Its Features - https://devopstoolbatch8.hashnode.dev/aws-iam-its-features-01-day-17
 
 28. AWS EC2 Tutorial - https://devopstoolbatch8.hashnode.dev/aws-ec2-tutorial-02-day-18
@@ -101,7 +119,12 @@ Grafana
 
 43. AWS Interview Questions For All Services - https://devopstoolbatch8.hashnode.dev/aws-interviewquestions-for-all-servicesTerraform
 
+
+
+
+
 Terraform
+
 43. Terraform (IaaC) – (01) - https://devopstoolbatch8.hashnode.dev/terraform-iaac-01-day-51
 
 44. Terraform – S3 backend (02) - https://devopstoolbatch8.hashnode.dev/terraform-iaac-s3-backend-02-
@@ -113,7 +136,11 @@ day-52
 
 47. Terraform: Validate, Format & Deploy (05) - https://devopstoolbatch8.hashnode.dev/the-power-ofterraform-a-step-by-step-guide-to-validate-format-and-deploy-05-day-55
 
+
+
+
 Ansible
+
 48. Ansible – (01): Write Your First Playbook - https://devopstoolbatch8.hashnode.dev/ansible-01-writeyour-first-playbook-day-14
 49. Ansible – (02): Playbooks & Modules - https://devopstoolbatch8.hashnode.dev/ansible-02-ansibleplaybooks-modules-day-15
 50. Ansible – (03): Roles with Examples - https://devopstoolbatch8.hashnode.dev/ansible-03-ansible-roleswith-examples-day-16
