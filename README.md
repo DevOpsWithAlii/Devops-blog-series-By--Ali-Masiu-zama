@@ -1,7 +1,7 @@
 # 50 Blogs to Learn DevOps, Cloud & More – Organized for Your
 Learning Path
 
-Linux
+# Linux
 1. Linux – Day 1 to Day 11 - https://devopstoolbatch8.hashnode.dev/linux-day-1
 
 2. Linux Interview Questions (Parts 1 to 4) - https://devopstoolbatch8.hashnode.dev/linux-interviewquestions-part-1
@@ -10,7 +10,7 @@ Linux
 
 
 
-Git & GitHub
+# Git & GitHub
 
 4. Git & GitHub – (01) - https://devopstoolbatch8.hashnode.dev/git-github-01-day-12
 
@@ -23,7 +23,7 @@ Git & GitHub
 
 
 
-Docker
+# Docker
 
 8. Docker – (01) - https://devopstoolbatch8.hashnode.dev/docker-01-day-33
 9. Docker File – (02) - https://devopstoolbatch8.hashnode.dev/docker-file-02-day-34
@@ -40,7 +40,7 @@ Docker
 
 
 
-Jenkins
+# Jenkins
 
 14. Getting Started with Jenkins – (01) - https://devopstoolbatch8.hashnode.dev/getting-started-withjenkins-01-day-39
 
@@ -59,7 +59,7 @@ day-41
 
 
 
-☸ Kubernetes
+# ☸ Kubernetes
 
 21. Introduction to Kubernetes – (01) - https://devopstoolbatch8.hashnode.dev/introduction-to-kubernetes-
 01-day-46
@@ -76,14 +76,14 @@ day-41
 
 
 
-Grafana
+# Grafana
 26. Setup Grafana on AWS EC2 – (01) - https://devopstoolbatch8.hashnode.dev/setup-grafana-in-yourlocal-environment-on-aws-ec2-01-day-56
 
 
 
 
 
-☁ AWS Essentials
+# ☁ AWS Essentials
 
 27. AWS IAM & Its Features - https://devopstoolbatch8.hashnode.dev/aws-iam-its-features-01-day-17
 
@@ -123,7 +123,7 @@ Grafana
 
 
 
-Terraform
+# Terraform
 
 43. Terraform (IaaC) – (01) - https://devopstoolbatch8.hashnode.dev/terraform-iaac-01-day-51
 
@@ -139,7 +139,7 @@ day-52
 
 
 
-Ansible
+# Ansible
 
 48. Ansible – (01): Write Your First Playbook - https://devopstoolbatch8.hashnode.dev/ansible-01-writeyour-first-playbook-day-14
 49. Ansible – (02): Playbooks & Modules - https://devopstoolbatch8.hashnode.dev/ansible-02-ansibleplaybooks-modules-day-15
